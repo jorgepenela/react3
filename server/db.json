@@ -1,0 +1,28 @@
+{
+    "juegos": [
+        {
+            "id": 1,
+            "nombre": "Counter Strike",
+            "genero": "Shooter",
+            "imagen": "https://picsum.photos/250?1"
+        },
+        {
+            "id": 2,
+            "nombre": "Age of Empires 2",
+            "genero": "Estrategia",
+            "imagen": "https://picsum.photos/250?2"
+        },
+        {
+            "id": 3,
+            "nombre": "GTA 2",
+            "genero": "Mundo Abierto",
+            "imagen": "https://picsum.photos/250?3"
+        },
+        {
+            "id": 4,
+            "nombre": "BomberMan",
+            "genero": "Arcade",
+            "imagen": "https://picsum.photos/250?4"
+        }
+    ]
+}
