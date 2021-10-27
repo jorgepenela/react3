@@ -8,22 +8,21 @@ notas:
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 CLASE 3
 
-Simple React Snippets:
-imrc → import react component
-ccc → componente de clase
-sfc → componente funcional
+Simple React Snippets:<br/>
+imrc → import react component <br/>
+ccc → componente de clase <br/>
+sfc → componente funcional <br/>
 
 ==================================
 
-Router: 
-1. npm i react-router-dom
-2. 
-import {BrowserRouter, Link, Route} from "react-router-dom";
+Router:  <br/>
+1. npm i react-router-dom <br/>
+2. import {BrowserRouter, Link, Route} from "react-router-dom";
 
 
 ==================================
-primero instalar json-server:
-npm install -g json-server
-
-Parado en la carpeta donde esta nuestro json:
+primero instalar json-server: <br/>
+npm install -g json-server <br/>
+<br/>
+Parado en la carpeta donde esta nuestro json: <br/>
 json-server --watch db.json --port 3001
